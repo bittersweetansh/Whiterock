@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Raw market data
+data/raw/*
+!data/raw/.gitkeep
+
+# Private files
+.env
+*.log
